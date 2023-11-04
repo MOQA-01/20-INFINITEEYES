@@ -1,2 +1,4 @@
 # INFINITEEYES_20
 INFINITEEYES (Team From PRESIDENCY UNIVERSITY).
+
+domain : Generative AI, Health Care
