@@ -1,4 +1,4 @@
-import gaze from "../../index.js";
+import gaze from "../../index(1).js";
 import { initialLetters } from "./utils.js";
 
 let letters = initialLetters;
